@@ -26,3 +26,8 @@ Utilisé si rien ne s'affiche.
 
 * **Booléen :** Comparer `?id=1 AND 1=1` (vrai) et `?id=1 AND 1=2` (faux).
 * **Temps (MySQL) :** `?id=1 AND IF(1=1, SLEEP(2), 0)--` (vérifier le délai de réponse).
+
+### 5. Ref
+https://portswigger.net/web-security/sql-injection
+https://owasp.org/www-community/attacks/SQL_Injection
+https://github.com/sqlmapproject/sqlmap/wiki
